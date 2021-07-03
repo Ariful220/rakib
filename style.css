@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    text-align: center;
+}
